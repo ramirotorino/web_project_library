@@ -366,7 +366,6 @@
 .footer__logo {
   width: 58px;
   height: 80px;
-  margin-bottom: 100px;
 }
 
 .footer__column-heading {
@@ -400,4 +399,5 @@
 
 .footer__copyright {
   margin-bottom: 0;
+  margin-top: 100px;
 }

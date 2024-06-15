@@ -314,11 +314,12 @@
   display: flex;
   justify-content: center;
   align-items: baseline;
+  column-gap: 40px;
 }
 
 .step {
-  width: 220px;
   margin-right: 40px;
+  flex-basis: 220px;
 }
 
 .step__title {
@@ -399,5 +400,4 @@
 
 .footer__copyright {
   margin-bottom: 0;
-  margin-top: 0;
 }
